@@ -27,10 +27,11 @@ __used __section(__versions) = {
 	{ 0xc2b78c96, "module_layout" },
 	{ 0xf28d7f7b, "platform_device_unregister" },
 	{ 0x2bf07e6f, "platform_device_register" },
+	{ 0xc5850110, "printk" },
 	{ 0xbdfb6dbb, "__fentry__" },
 };
 
 MODULE_INFO(depends, "");
 
 
-MODULE_INFO(srcversion, "448000FF6B8A3122B2B9FC7");
+MODULE_INFO(srcversion, "FA810C6CB12B7964CF38D8A");
