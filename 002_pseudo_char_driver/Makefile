@@ -1,4 +1,4 @@
-obj-m:=pcd.o
+obj-m:=npcd.o
 ARCH = arm
 CROSS_COMPILE = arm-linux-gnueabihf-
 KERN_DIR = /home/einfochips/Desktop/training/DeviceDrivers/Workspace/ldd/source/linux_bbb_4.14/
